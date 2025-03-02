@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/update.json" # Путь к вашему файлу update.json
+  [headers.values]
+    Access-Control-Allow-Origin = "*" # Разрешить доступ с любого домена
